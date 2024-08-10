@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Saif Mohammed!
+# 👋 Hi, I’m Saif Mahammed!
 
 - 👀 I’m passionate about coding and building AI models! Check out my own AI model at [saifgpt.vercel.app](https://saifgpt.vercel.app). It's created to compete with ChatGPT!
 
